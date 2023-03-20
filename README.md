@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Tiwari</h1>
 <h3 align="center">A passionate Full stack web Developer, learning and implementing new technologies on projects and currently working more on Backend Sides</h3>
-<img align="right" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="" style="width: 400;">
+<img align="center" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="" style="width: 400;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeep55567&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeep55567" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuldeep55567" alt="kuldeep55567" /></a> </p>
@@ -27,6 +27,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kuldeep-tiwari-a3637923a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuldeep-tiwari-a3637923a" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kanj55567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kanj55567" height="30" width="40" /></a>
+<a href="https://kuldeep55567.github.io/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/000/351/686/small/Business__28148_29.jpg" alt="kanj55567" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
