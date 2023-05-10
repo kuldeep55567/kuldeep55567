@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Nodejs**
 - 📬 How to reach me: [kuldeept5567@gmail.com]
 (mailto:kuldeept5567@gmail.com)
-- 🌏 Visit to my Portfolio - 'https://kuldeep55567.github.io/'
+- 🌏 Visit to my Portfolio - https://kuldeep55567.github.io/
 - 📝 [Resume](https://drive.google.com/file/d/1wWqg-GmcPcYmRJxriejwGuthApaj_dd_/view?usp=sharing)
 
 ---
