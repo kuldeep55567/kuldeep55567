@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" width='100%' height='100%' align="center"  />
+<img src="https://i.giphy.com/RbDKaczqWovIugyJmW.webp" width='100%' height='100%' align="center"  />
 
 
 <h1 align="center">Hi there👋, I'm Kuldeep Tiwari</h1>
